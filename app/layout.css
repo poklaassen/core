@@ -1,0 +1,9 @@
+body {
+    background-image: url('/images/logo.png'), linear-gradient(to bottom, rgba(255, 192, 203, 1) 10%, rgba(255, 192, 203, 0) 30%);
+    background-repeat: no-repeat, no-repeat;
+    background-attachment: fixed, fixed;
+    background-position: center, center;
+    background-size: 40%, 100%;
+    background-position-x: 80%, 50%;
+    background-position-y: 0%, 0%;
+}
